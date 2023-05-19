@@ -1,0 +1,13 @@
+diffusers==0.16.1
+fastapi==0.95.2
+googletrans==3.0.0
+numpy==1.22.4
+omegaconf==2.3.0
+Pillow==9.5.0
+PyYAML==6.0
+requests==2.26.0
+segment_anything==1.0
+torch==1.9.0
+utils==1.0.1
+uvicorn==0.22.0
+whisper==1.1.10
